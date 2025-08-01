@@ -1,1 +1,1 @@
-@@fyinformation.cc@@
+@@faridlending.sbs@@
